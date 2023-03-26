@@ -5,32 +5,29 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
 
+body {
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: bold;
+    background-color: rgba(128, 128, 128, 0.199);
+}
 
-h1{
+
+h1 {
     font-family: 'Fjalla One', sans-serif;
     font-weight: bold;
     font-size: 50px;
 }
 
-.tabares{
+.tabares {
     color: rgb(132, 252, 246);
     text-shadow: 0 0 3px black;
 }
 
-.logo{
-    height: 100px;
-    width: 100px;
-    display: flex;
-    padding: 5px;
+.carousel-inner {
+    max-height: 30rem;
 }
 
-.carousel-inner{
-max-height: 30rem;
-}
-
-
-body{
-    font-family: 'Fjalla One', sans-serif;
-    font-weight: bold;
+.servicios{
+    text-align: center;
 }
 
