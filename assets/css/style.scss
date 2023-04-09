@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+
+body {
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: bold;
+    background-color: rgba(128, 128, 128, 0.199);
+}
+
+
+h1 {
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.tabares {
+    color: rgb(132, 252, 246);
+    text-shadow: 0 0 3px black;
+}
+
+.carousel-inner {
+    max-height: 30rem;
+}
+
+.servicios {
+    text-align: center;
+}
+
+
+footer {
+    background-color: black;
+    min-height: 100px;
+}
+
+footer p {
+    color: white;
+    text-align: center;
+}
+
+.span{
+font-weight: bold;
+color: rgb(92, 144, 255);
+font-size: 25px;
+}
+
+#redes {
+    font-size: 30px;
+    padding: 0 10;
+}
