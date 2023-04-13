@@ -1,25 +1,42 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box
 }
+
+//Colors
+$color1: rgb(132, 252, 246);
+$color2: rgb(92, 144, 255);
+
+//Fonts
+$font1: 'Fjalla One', sans-serif;
+
+//Font-Size
+$Fontsize-sm: 25px;
+$Fontsize-md: 30px;
+$Fontsize-lg: 50px;
+
 
 @import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
 
 body {
-    font-family: 'Fjalla One', sans-serif;
+    font-family: $font1;
     font-weight: bold;
     background-color: rgba(128, 128, 128, 0.199);
 }
 
+section{
+    background-color: grey;
+}
 
 h1 {
-    font-family: 'Fjalla One', sans-serif;
+    font-family: $font1;
     font-weight: bold;
-    font-size: 50px;
+    font-size: $Fontsize-lg;
 }
 
 .tabares {
-    color: rgb(132, 252, 246);
+    color: $color1;
     text-shadow: 0 0 3px black;
 }
 
@@ -35,20 +52,20 @@ h1 {
 footer {
     background-color: black;
     min-height: 100px;
-}
 
-footer p {
-    color: white;
-    text-align: center;
+    p{
+        color: white;
+        text-align: center;   
+    }
 }
 
 .span{
 font-weight: bold;
-color: rgb(92, 144, 255);
-font-size: 25px;
+color: $color2;
+font-size: $Fontsize-sm;
 }
 
 #redes {
-    font-size: 30px;
+    font-size: $Fontsize-md;
     padding: 0 10;
-}
+} 

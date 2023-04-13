@@ -2,6 +2,7 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 body {
@@ -33,7 +34,6 @@ footer {
   background-color: black;
   min-height: 100px;
 }
-
 footer p {
   color: white;
   text-align: center;
