@@ -8,6 +8,7 @@
 body {
   font-family: "Fjalla One", sans-serif;
   font-weight: bold;
+  font-size: 20px;
   background-color: rgba(128, 128, 128, 0.199);
 }
 
@@ -30,6 +31,15 @@ h1 {
   text-align: center;
 }
 
+#ServiciosImg img:hover {
+  border-color: aqua;
+}
+
+button:hover {
+  box-shadow: 0 4px 16px rgb(255, 255, 255);
+  transform: scale(1.05);
+}
+
 footer {
   background-color: black;
   min-height: 100px;
@@ -42,12 +52,10 @@ footer p {
 .span {
   font-weight: bold;
   color: rgb(92, 144, 255);
-  font-size: 25px;
+  font-size: 20px;
 }
 
 #redes {
   font-size: 30px;
   padding: 0 10;
-}
-
-/*# sourceMappingURL=style.css.map */
+}/*# sourceMappingURL=style.css.map */

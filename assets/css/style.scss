@@ -12,7 +12,7 @@ $color2: rgb(92, 144, 255);
 $font1: 'Fjalla One', sans-serif;
 
 //Font-Size
-$Fontsize-sm: 25px;
+$Fontsize-sm: 20px;
 $Fontsize-md: 30px;
 $Fontsize-lg: 50px;
 
@@ -22,12 +22,10 @@ $Fontsize-lg: 50px;
 body {
     font-family: $font1;
     font-weight: bold;
+    font-size: $Fontsize-sm;
     background-color: rgba(128, 128, 128, 0.199);
 }
 
-section{
-    background-color: grey;
-}
 
 h1 {
     font-family: $font1;
@@ -48,24 +46,33 @@ h1 {
     text-align: center;
 }
 
+#ServiciosImg img:hover{
+    border-color: aqua;
+
+}
+
+button:hover{
+    box-shadow: 0 4px 16px rgb(255, 255, 255);
+    transform: scale(1.05);
+}
 
 footer {
     background-color: black;
     min-height: 100px;
 
-    p{
+    p {
         color: white;
-        text-align: center;   
+        text-align: center;
     }
 }
 
-.span{
-font-weight: bold;
-color: $color2;
-font-size: $Fontsize-sm;
+.span {
+    font-weight: bold;
+    color: $color2;
+    font-size: $Fontsize-sm;
 }
 
 #redes {
     font-size: $Fontsize-md;
     padding: 0 10;
-} 
+}
