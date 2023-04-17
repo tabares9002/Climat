@@ -36,6 +36,23 @@ h1 {
   font-size: 50px;
 }
 
+.animacion {
+  text-shadow: 0 3px 3px gray;
+  animation-duration: 2s;
+  animation-name: aparecer;
+  animation-delay: 2s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+}
+
+@keyframes aparecer {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
 .tabares {
   color: rgb(132, 252, 246);
   text-shadow: 0 0 3px black;

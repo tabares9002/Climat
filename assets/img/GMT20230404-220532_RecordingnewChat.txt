@@ -1,0 +1,166 @@
+00:47:50	fernando quaranta:	Buenas tardes
+00:48:10	JuanGui Flores:	buenas
+00:48:12	Mónica Campos:	buenas tardes
+00:48:14	Catalina Reygadas González:	Buenas tardes
+00:48:27	NAZARENO LUNA:	Buenas a todos!!
+00:48:54	claudio herrera:	holaa
+00:49:46	Martin Villafañe:	holaa
+00:50:03	Maria Rodriguez Medano:	hola!!!
+00:56:00	Karina Rosa:	a que hora seria?
+00:56:09	NAZARENO LUNA:	👍
+00:56:18	Karina Rosa:	genial! gcs
+00:56:26	Yanina Viegas:	👍🏻
+00:58:14	Lourdes Am Bisutti:	buenas tardes a todos!!!!
+00:58:23	Lourdes Am Bisutti:	perdon la demora profes
+01:06:14	[Tutora] Victoria Fuceneco:	No pasa nada Lour, queda la grabacion!
+01:06:42	Cesar Casanova:	lindo
+01:13:28	Verónica Faeinschtein:	uuh que lindo eso
+01:16:16	Fernando Quaranta:	no se escucha
+01:16:19	Fernando Quaranta:	soy yo?
+01:16:23	claudio herrera:	se puede definir primero la imagen ?
+01:16:29	Juan Mocciola:	Replying to "soy yo?"
+
+si
+01:17:15	Yanina Viegas:	me perdi un poco con lo números que están dentro del ()
+01:17:20	claudio herrera:	joya
+01:18:23	[tutora] Angélica Orozco:	Yanina https://www.w3schools.com/css/css_colors_rgb.asp aquí puedes ver algo sobre los rgba si es lo que necesitas
+01:18:37	Yanina Viegas:	ok, gracias
+01:20:13	Verónica Faeinschtein:	Replying to "me perdi un poco con..."
+
+son 4 nros, el r (red) g (Green) b (blue) y el A que es el canal Alpha, osea la transparencia del color. Pero se pone solo, no lo tenemos que escribir nosotros, elegís el color y listo
+01:21:01	Pablo Moore:	Presente
+01:21:06	Verónica Faeinschtein:	WHAAAAT TRMENDO
+01:21:18	Karina Rosa:	se puede personalizar en otro programa grafico y arrastrarlo? o siempre se codifica ? es decir un cuadradito pequeño y decirle que se repita
+01:21:27	Pablo Moore:	Profe, todavía no me corrigieron la preentrega, puede ser?
+01:21:55	Pablo Moore:	Si llego a tener algún error, me gustaria que me quede tiempo para reentregar
+01:22:17	[TUTOR] Franco Settembrini:	Pablo todavía no la corregi
+01:22:19	[TUTOR] Franco Settembrini:	Esta en plazo
+01:22:22	[TUTOR] Franco Settembrini:	...
+01:22:33	[Tutora] Victoria Fuceneco:	Recuerden que tenemos 5 días HABILES para realizar las devoluciones
+01:22:37	[TUTOR] Franco Settembrini:	Reacted to "Recuerden que tenemo..." with ☝️
+01:22:39	Karina Rosa:	si
+01:22:41	Karina Rosa:	yo
+01:22:45	Karina Rosa:	hice una
+01:22:48	[Coordinador] Gianluca Fava:	Si cuando reciben la entrega, se les venció el plazo para re entregar, se habilita nuevamente, tranquis
+01:22:48	[tutora] Angélica Orozco:	tenemos 5 días hábiles para corregir, además se le suman los días off de semana santa
+01:22:50	[Tutora] Victoria Fuceneco:	Dias sabados, domingos y feriados NO son habiles
+01:23:18	[TUTOR] Franco Settembrini:	con background repite
+01:23:21	[TUTOR] Franco Settembrini:	repeat*
+01:23:55	Karina Rosa:	okis
+01:24:14	Karina Rosa:	gracias
+01:24:32	Ezequiel Martinez :	.
+01:24:37	(Profesor) Emanuel Cabral:	https://mycolor.space/gradient3?ori=circle&hex=%2395115C&hex2=%23173B7D&hex3=%235FFBF1&submit=submit
+01:24:45	Paolo Ottino:	se me había caído el internet 🥲
+01:25:38	Verónica Faeinschtein:	excelente
+01:25:42	[Tutora] Victoria Fuceneco:	Para los que me preguntaron por privado, si necesitan tomar un color de un sitio web, yo utilizo la extensión de color picker en chrome
+01:25:45	Yanina Viegas:	muy bueno!!
+01:25:45	Maria Rodriguez Medano:	excelente
+01:26:34	Cesar Casanova:	genial
+01:26:45	[tutora] Angélica Orozco:	otra opción para armar su paleta de colores https://coolors.co
+01:27:27	(Profesor) Emanuel Cabral:	https://cssgradient.io/gradient-backgrounds/
+01:32:02	Pablo Moore:	Yo le mande gradient al mi preentrega
+01:32:44	Paolo Ottino:	ah, los botones con gradient y hover están facherasos
+01:32:47	Verónica Faeinschtein:	que lindo lo de los buttons, con hover y todo
+01:32:56	Paolo Ottino:	Replying to "que lindo lo de los ..."
+
+seee
+01:33:10	Martin Villafañe:	yo quise usar coolors pero no lo entendí muy bien
+01:33:54	(Profesor) Emanuel Cabral:	https://coolors.co/c52233-ff001a-bd4b76-7b95d1-74121d-580c1f
+01:34:25	(Profesor) Emanuel Cabral:	https://color.adobe.com/es/create/color-wheel
+01:34:47	[Coordinador] Gianluca Fava:	En adobe, pueden extraer los colores de su logo en "extraer tema"
+01:37:14	Cesar Casanova:	woah
+01:45:52	Verónica Faeinschtein:	osea, qe podemos poner rotate directamente
+01:49:33	tiago salgado:	consulta, se podría usar skew con títulos no por ejemplo?
+01:49:48	[Coordinador] Gianluca Fava:	Replying to "consulta, se podría ..."
+
+podría ser una opción, si
+01:50:10	tiago salgado:	Replying to "consulta, se podría ..."
+
+aaah joya gracias
+01:50:29	[TUTOR] Franco Settembrini:	Se puede usar transform con todas las etiquetas
+01:50:35	[TUTOR] Franco Settembrini:	es una propiedad más
+01:50:48	tiago salgado:	buenisimo
+01:52:02	Pedro Aular:	buenas tardes... disculpen la demora, cambio de horario de otoño!
+01:52:21	[TUTOR] Franco Settembrini:	Reacted to "buenas tardes... dis..." with 👌
+01:52:21	Alejandro Nishiky Ruales:	Profe consulta se podrá hacer animaciones de transición? o eso ya es con JS?
+01:52:27	[TUTOR] Franco Settembrini:	Si Ale
+01:52:30	[TUTOR] Franco Settembrini:	Lo vemos en la segunda parte
+01:52:42	Alejandro Nishiky Ruales:	Buenisimo gracias!
+02:04:58	Verónica Faeinschtein:	y porque la transition all 2s esta en el hover también?
+02:05:30	Verónica Faeinschtein:	aah ok listo
+02:05:34	Alejandro Nishiky Ruales:	se recomienda trabajar con ambos una transición?
+02:05:52	Franco Catania:	como podríamos hacer que la animación empiece cuando scrolleemos a una sección de la pagina?
+02:06:05	[Tutora] Victoria Fuceneco:	Se puede eso Fran
+02:06:11	Alejandro Nishiky Ruales:	gracias profe!
+02:06:16	[Tutora] Victoria Fuceneco:	No recuerdo exactamente la propiedad ahora, pero es beniusima la idea
+02:06:27	Ezequiel DI Leo:	el "all" para que es?
+02:07:20	[Coordinador] Gianluca Fava:	Replying to "como podríamos hacer..."
+
+Se puede hacer de manera simple con la librería aos.js
+02:07:22	Franco Catania:	Reacted to "No recuerdo exactame..." with ❤️
+02:07:50	[Coordinador] Gianluca Fava:	Replying to "como podríamos hacer..."
+
+https://michalsnik.github.io/aos/
+02:07:51	Franco Catania:	Replying to "como podríamos hacer..."
+
+Gracias!
+02:07:55	Franco Catania:	Reacted to "https://michalsnik.g..." with ❤️
+02:08:03	Verónica Faeinschtein:	Replying to "el "all" para que es..."
+
+puso all para no poner height tantos sg y por otro lado width xsgs
+02:13:53	Jonathan Colazo:	es para que pase mas lenta la ultima parte?
+02:16:27	Fernando Quaranta:	y si tengo un div adentro de otro como se comporta?
+02:16:30	Fernando Quaranta:	por las proporciones
+02:20:36	Karina Rosa:	como un loop
+02:20:53	Karina Rosa:	ah ok
+02:21:13	claudio herrera:	salta de uno en otro
+02:27:38	[TUTOR] Franco Settembrini:	Lindo para una loading screen
+02:27:52	Francisco Mina:	Reacted to "Lindo para una loadi..." with ❤️
+02:28:45	Alejandro Nishiky Ruales:	Reacted to "Lindo para una loadi..." with ❤️
+02:31:01	[TUTOR] Franco Settembrini:	http://www.homerswebpage.com/
+02:36:34	(Profesor) Emanuel Cabral:	https://animate.style/
+02:36:43	(Profesor) Emanuel Cabral:	https://wowjs.uk/docs.html
+02:38:13	Paolo Ottino:	eso esta muy bueno
+02:38:18	Pablo Moore:	Mortal, me encanta
+02:38:39	Pablo Moore:	Eso igual se puede hacer con Js, no?
+02:38:52	Erika Arreguin:	conoces alguna librería para hacer una nube de palabras?
+02:39:41	[TUTOR] Franco Settembrini:	Replying to "conoces alguna libre..."
+
+Erika eso lo podes hacer tranquilamente con HTML y css
+02:39:50	[TUTOR] Franco Settembrini:	Replying to "Eso igual se puede h..."
+
+Lo de AOS no
+02:40:11	[Coordinador] Gianluca Fava:	Replying to "conoces alguna libre..."
+
+Aca hay algunas:WordCloudCloud.jsTagCanvas
+02:40:45	Verónica Faeinschtein:	pasan porfa el link de aos?
+02:41:01	(Profesor) Emanuel Cabral:	https://michalsnik.github.io/aos/
+02:41:02	Verónica Faeinschtein:	gracias
+02:41:06	Facundo Godoy:	buen finde nos vemos felices pascuas
+02:41:15	Franco Catania:	buenísimo el contenido
+02:41:45	Paolo Ottino:	si mal
+02:41:48	Verónica Faeinschtein:	genial todo
+02:41:51	Paolo Ottino:	mucho contenido fachero
+02:41:54	NAZARENO LUNA:	👍
+02:42:06	Pedro Aular:	genial..!
+02:42:27	Verónica Faeinschtein:	en la entrega final hay que incluir sass?
+02:42:35	Francisco Mina:	gracias profe nos vemos
+02:42:38	[Coordinador] Gianluca Fava:	Replying to "en la entrega final ..."
+
+Si vero
+02:42:39	Paolo Ottino:	exito
+02:42:40	Franco Catania:	buen finde!
+02:42:40	[tutora] Angélica Orozco:	sí Vero
+02:42:42	Fernando Quaranta:	saludos
+02:42:42	Santino Bravo:	gracias, nos vemos
+02:42:43	Ignacio Sujov Morabito:	Buen finde
+02:42:43	[TUTOR] Franco Settembrini:	👋
+02:42:43	NAZARENO LUNA:	saludos
+02:42:44	[Coordinador] Gianluca Fava:	Buen findee
+02:42:44	Pedro Aular:	felices pascuas
+02:42:47	Verónica Faeinschtein:	Replying to "en la entrega final ..."
+
+gracias!
+02:42:49	Lautaro Alvarez:	saludos
+02:42:50	Natalia Torresi:	CHAU
+02:42:53	[Tutora] Victoria Fuceneco:	saludos!
