@@ -74,13 +74,6 @@ body {
     }
 }
 
-    #h2mapa{
-        font-family: $font1;
-        font-weight: bold;
-        font-size: $Fontsize-md;
-        text-shadow: 0 3px 5px rgba(94, 93, 93, 0.493);
-    }
-
 .animacion {
     text-shadow: 0 3px 3px gray;
     animation-duration: 2s;
@@ -109,7 +102,7 @@ body {
     max-height: 30rem;
 }
 
-button:hover {
+#botton:hover {
     box-shadow: 0 4px 16px rgb(255, 255, 255);
     transform: scale(1.05);
 }
