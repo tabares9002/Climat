@@ -3,7 +3,8 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="Página de la empresa ClimaTabares. Nos especializamos en los servicios de Aire acondicionado y climatización">
+    <meta name="description"
+        content="Página de la empresa ClimaTabares. Nos especializamos en los servicios de Aire acondicionado y climatización">
     <meta name="author" content="Lesther Tabares">
     <meta name="keywords" content="aire acondicionado, instalación, mantenimiento, calor, frio, climatización">
     <meta name="robots" content="index, follow">
@@ -46,16 +47,14 @@
     </nav>
 
     <!-- Formulario -->
-    <div class="mt-5 text-center">
-        <img src="../img/mensaje.jpg" alt="FormularioImg" class="img-fluid mt-3">
-        <h2 class="mt-2">Comuníquese con Nosotros</h2>
-        <p>Haga la Solicitud del Servicio Deseado.
-            <br> Estamos a sus Órdenes
-        </p>
-    </div>
-    <section class="d-flex justify-content-center align-items-center">
-        <div class="card shadow bg-info text-dark col-xs-12 col-sm-8 col-md-6 col-lg-4 p-4">
-            <div class="mb-4 d-flex justify-content-start align-items-center">
+    <section class="d-flex justify-content-center mr-5 mt-5" id="formulario">
+        <div class="card shadow bg-info text-dark col-xs-12 col-sm-8 col-md-6 col-lg-4 p-4 ml-5">
+            <img class="rounded" src="../img/mensaje.jpg">
+            <h2 class="mt-2 text-center">Comuníquese con Nosotros</h2>
+            <p class="text-center border-bottom border-3 border-dark">Haga la Solicitud del Servicio Deseado.
+                <br> Estamos a sus Órdenes
+            </p>
+            <div class="mb-2 d-flex justify-content-start align-items-center">
                 <h4> <i class="bi bi-chat-left-quote"></i>Contáctenos</h4>
             </div>
             <div class="mb-1">
@@ -86,7 +85,8 @@
                         <div class="mensaje text-danger"></div>
                     </div>
                     <div class="mb-2">
-                        <button id="botton" class="col-12 btn btn-dark text-info text-uppercase font-weight-bold  d-flex justify-content-between ">
+                        <button id="botton"
+                            class="col-12 btn btn-dark text-info text-uppercase font-weight-bold  d-flex justify-content-between ">
                             <span>Enviar Mensaje </span><i id="icono" class="bi bi-cursor-fill "></i>
                         </button>
                     </div>
@@ -94,19 +94,24 @@
             </div>
         </div>
     </section>
-    
+
     <!-- Footer -->
-    <footer class="w-100 d-flex align-items-center justify-content-center flex-wrap mt-5">
-        <p class="fs-5 px-3 pt-3">
-            <span class="span">ClimaTabares</span> Todos los derechos reservados 2023
+    <footer class="w-100 d-flex justify-content-around flex-wrap mt-5">
+        <div class="p-4 mt-2" id="mapa">
+            <iframe class="rounded" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1636.6789886791414!2d-56.11196959999999!3d-34.8723561!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x959f872d0d018c9f%3A0x674b7c60d6a9017!2sDr%20Carlos%20Mar%C3%ADa%20Prando%202428%2C%2011400%20Montevideo%2C%20Departamento%20de%20Montevideo!5e0!3m2!1ses-419!2suy!4v1682265717693!5m2!1ses-419!2suy"
+                width="200" height="100" style="border:0;" allowfullscreen="" loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+        <p class="px-3 pt-3 mt-2" id="footerText">
+            <span class="span">ClimaTabares</span> <br> Todos los derechos reservados 2023
         </p>
-        <div id="redes">
+        <div class="mt-5" id="redes">
             <a href="https://www.facebook.com/ClimaTabares"><i class="bi bi-facebook"></i></a>
             <a href="#"><i class="bi bi-twitter"></i></a>
             <a href="https://www.instagram.com/clima_tabares"><i class="bi bi-instagram"></i></a>
         </div>
     </footer>
-
+    
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
         integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
         crossorigin="anonymous"></script>
